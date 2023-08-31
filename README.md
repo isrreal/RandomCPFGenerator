@@ -3,7 +3,7 @@
 
 Compile this code and it will return a 10 random valid CPF with 11 digits.
 
-This code run with a constant complexity time O(1).
+This code run with a constant time complexity O(1).
 
 
 
