@@ -1,4 +1,4 @@
-# random-CPF-Generator
+# Random CPF Generator
 
 
 Compile this code and it will return a 10 random valid CPF with 11 digits.
