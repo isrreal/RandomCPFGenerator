@@ -9,4 +9,4 @@ This code run with a constant time complexity O(1).
 
 Use following for compile correctly the program:
 
-g++ *.cpp -o main -std=c++17
+* g++ *.cpp -o main -std=c++17
