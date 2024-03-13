@@ -1,12 +1,10 @@
 # Random CPF Generator
 
+This code generates 10 random valid CPFs, each consisting of 11 digits.
 
-Compile this code and it will return a 10 random valid CPF with 11 digits.
+## Usage
 
-This code run with a constant time complexity O(1).
+To compile this code, use the following command in your terminal:
 
-
-
-Use following for compile correctly the program:
-
-* g++ *.cpp -o main -std=c++17
+```bash
+g++ *.cpp -o main -std=c++17
