@@ -1,4 +1,4 @@
-#include "Files/gerar.cpp"
+#include "gerar.hpp"
 
 int main() {
     std::cout << "CPF'S gerados: " << std::endl;
