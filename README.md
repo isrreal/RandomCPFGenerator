@@ -8,3 +8,4 @@ To compile this code, use the following command in your terminal:
 
 ```bash
 make
+```
