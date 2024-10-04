@@ -1,6 +1,6 @@
 #include "generate.hpp"
 
-std::string gerar() {
+std::string generate() {
     std::string CPF = "";
     std::random_device randomNumber;
     std::mt19937 seed(randomNumber());
