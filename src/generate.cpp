@@ -1,4 +1,4 @@
-#include "gerar.hpp"
+#include "generate.hpp"
 
 std::string gerar() {
     std::string CPF = "";
