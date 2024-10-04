@@ -1,11 +1,17 @@
 # Random CPF Generator
 
-This code generates 10 random valid CPFs, each consisting of 11 digits.
+This code generates random valid CPF's, each consisting of 11 digits, based on argument in CLI.
 
 ## Usage
 
-To compile this code, use the following command in your terminal:
+1. Compile 
 
 ```bash
 make
 ```
+1. Execute 
+
+```bash
+./app number_of_cpfs
+```
+
